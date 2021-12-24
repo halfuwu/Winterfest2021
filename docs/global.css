@@ -1,10 +1,4 @@
 
-p {
-    font-family: "Burbank Big Regular", serif;
-    font-weight: bold;
-    font-size: xxx-large;
-    color: #FFFFFF;
-}
 h1 {
     font-family: "Burbank Big Regular", serif;
     font-weight: bold;
@@ -49,5 +43,11 @@ img {
     font-family: "Burbank Big Regular", serif;
     font-weight: bold;
     font-size: 100px;
+    color: #FFFFFF;
+}
+p {
+    font-family: "Burbank Big Regular", serif;
+    font-weight: bold;
+    font-size: xxx-large;
     color: #FFFFFF;
 }
