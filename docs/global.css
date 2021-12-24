@@ -23,10 +23,10 @@ h3 {
     font-family: "Segoe UI Light", serif;
     font-weight: lighter;
     font-size: large;
-    color: #000000;
+    color: #FFFFFF;
 }
 
-a {
+.download {
     font-family: "Burbank Big Regular", serif;
     font-weight: bold;
     font-size: 100px;
@@ -43,4 +43,11 @@ img {
 
 .center {
     text-align: center;
+}
+
+.title {
+    font-family: "Burbank Big Regular", serif;
+    font-weight: bold;
+    font-size: 100px;
+    color: #FFFFFF;
 }
