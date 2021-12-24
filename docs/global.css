@@ -1,0 +1,46 @@
+
+p {
+    font-family: "Burbank Big Regular", serif;
+    font-weight: bold;
+    font-size: xxx-large;
+    color: #FFFFFF;
+}
+h1 {
+    font-family: "Burbank Big Regular", serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-family: "Burbank Big Regular", serif;
+    font-weight: bold;
+    font-size: x-large;
+    color: #FFFFFF;
+}
+
+h3 {
+    font-family: "Segoe UI Light", serif;
+    font-weight: lighter;
+    font-size: large;
+    color: #000000;
+}
+
+a {
+    font-family: "Burbank Big Regular", serif;
+    font-weight: bold;
+    font-size: 100px;
+    color: #2020AA;
+}
+
+body {
+    background-color: #3d3d4d;
+}
+
+img {
+    border: 2px solid #555588;
+}
+
+.center {
+    text-align: center;
+}
